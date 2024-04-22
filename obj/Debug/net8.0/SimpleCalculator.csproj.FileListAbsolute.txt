@@ -1,0 +1,14 @@
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfoInputs.cache
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfo.cs
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.exe
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.deps.json
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.runtimeconfig.json
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.dll
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.pdb
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.dll
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\refint\SimpleCalculator.dll
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.pdb
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.genruntimeconfig.cache
+F:\Treina-web\c#\002-Simple-Calculator\SimpleCalculator\obj\Debug\net8.0\ref\SimpleCalculator.dll
